@@ -1,9 +1,53 @@
-# About
-This is the demo site for [Fuwari](https://github.com/saicaca/fuwari).
+# 关于我
 
-::github{repo="saicaca/fuwari"}
+<p align="center">
+  <img
+    src="https://blog-1316756713.cos.ap-shanghai.myqcloud.com/bolg/gintama-sakata-gintoki-wallpaper-2560x1080_14.webp"
+    alt="银时头像"
+    width="140"
+  />
+</p>
 
-> ### Sources of images used in this site
-> - [Unsplash](https://unsplash.com/)
-> - [星と少女](https://www.pixiv.net/artworks/108916539) by [Stella](https://www.pixiv.net/users/93273965)
-> - [Rabbit - v1.4 Showcase](https://civitai.com/posts/586908) by [Rabbit_YourMajesty](https://civitai.com/user/Rabbit_YourMajesty)
+> 一名专注于「生成式推荐 & 大模型应用」的算法工程师，业余时间沉迷 FPS 游戏（APEX / CSGO）。
+> 希望把踩过的坑、调过的模型、做过的项目，都整理成简单易懂的博客分享出来。
+
+---
+
+## 站长介绍
+
+- 昵称：**jasoncc**
+- 职业：算法工程师（生成式推荐 & 大模型方向）
+- 关键词：刷题、推荐系统、Embedding、Prompt、Deadline 战士
+
+---
+
+## 主要技能
+
+### 核心能力
+
+- 算法与数据结构：日常刷题
+- 生成式推荐：召回 / 排序、多目标优化，把大模型融入推荐策略。
+- 大模型应用：Prompt 设计、工具调用、服务化与工程落地。
+
+### 技术栈
+
+- 语言：Python / C++ / Go。
+- 方向：生成式推荐系统 / 大模型应用 / 算法题。
+
+---
+
+## 兴趣爱好
+
+> 工作时写算法，休息时打枪战。
+
+- APEX：节奏快、机动性高，偏爱进攻节奏。
+- CSGO / CS2：经典 FPS，练枪、道具和身法，和朋友开黑最放松。
+
+---
+
+## 这个博客会写些什么？
+
+- 学习算法过程中的笔记与总结。
+- 偶尔分享一些和游戏、效率相关的有趣内容。
+
+希望这个博客既能帮到之后的自己，也能对路过的你有一点点启发。
