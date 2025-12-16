@@ -6,8 +6,9 @@ export const LIGHT_MODE = "light",
 export const DEFAULT_THEME = AUTO_MODE;
 
 // Banner height unit: vh
-export const BANNER_HEIGHT = 35;
-export const BANNER_HEIGHT_EXTEND = 30;
+// 原始值为 35 / 30，整体偏高；适当调小一些
+export const BANNER_HEIGHT = 26;
+export const BANNER_HEIGHT_EXTEND = 18;
 export const BANNER_HEIGHT_HOME = BANNER_HEIGHT + BANNER_HEIGHT_EXTEND;
 
 // The height the main panel overlaps the banner, unit: rem
