@@ -1,8 +1,12 @@
 # 关于我
 
+<!-- 旧头像：
+src="https://blog-1316756713.cos.ap-shanghai.myqcloud.com/bolg/gintama-sakata-gintoki-wallpaper-2560x1080_14.webp"
+-->
+
 <p>
   <img
-    src="https://blog-1316756713.cos.ap-shanghai.myqcloud.com/bolg/gintama-sakata-gintoki-wallpaper-2560x1080_14.webp"
+    src="https://blog-1316756713.cos.ap-shanghai.myqcloud.com/bolg/Gemini_Generated_Image_eydlaueydlaueydl.webp"
     alt="银时头像"
     style="width: 100%; border-radius: 16px; object-fit: cover;"
   />
