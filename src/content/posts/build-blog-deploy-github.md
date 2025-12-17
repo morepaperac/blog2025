@@ -1,5 +1,6 @@
 ---
 title: Astro/Fuwari 个人博客搭建与部署
+published: 2025-12-17
 description: 记录如何从零开始搭建 Fuwari 博客，并使用 GitHub Actions 自动部署到 GitHub Pages。
 tags: [Blog, GitHub Actions, Astro]
 category: Tech
