@@ -171,14 +171,25 @@ jobs:
 
 如果你使用的分支不是 `main`，记得把上面的 `branches: [ main ]` 改成你实际的分支名。
 
-## 6. 常见问题
+## 6. 文章置顶
+
+```yaml
+title: 文章标题
+published: 2025-12-17 发布时间
+description: 文章简介
+image: ./5.png 文章首图,非必须可删除。
+tags: [SID, 推荐] 文章标签 可多个
+category: 推荐
+draft: false
+pinned: false 文章是否固定、置顶
+```
+
+## 7. 常见问题
 
 1. **Git 代理 / 网络问题**：如果访问 GitHub 较慢，可以在 Git 中配置合适的代理，或使用镜像站点进行克隆，然后再修改远程地址为正式的 GitHub 仓库。
 2. **SSH 多账号问题**：在同一台机器使用多个 GitHub 账号时，可以通过编辑 `~/.ssh/config` 来区分不同的私钥和 Host，避免推错仓库。
 3. **GitHub Pages 404 / 样式错位**：大多与 `astro.config.mjs` 中的 `site`、`base` 配置不一致有关。确认线上访问地址与本地配置完全对应。
 
-## 7. 总结
+## 8. 总结
 
 Fuwari 是一个外观漂亮且配置简单的 Astro 博客主题。结合 GitHub Actions 和 GitHub Pages，可以实现「推送即部署」的工作流。
-
-在公开分享配置或文章时，记得使用占位符替代真实的用户名、仓库名和本机路径，以避免泄露个人隐私信息.
