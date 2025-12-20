@@ -1,8 +1,10 @@
 ---
 title: How Attention Got So Efficient
-published: 2025-12-19
+published: '2025-12-19'
 description: Attention各种变种
-tags: [Attention, KV Cache]
+tags:
+  - Attention
+  - KV Cache
 category: 大模型
 draft: false
 ---
